@@ -1,4 +1,4 @@
-Hello, i am Jan
+Hello, I am Jan
 ---------------
 
 *reach out to me:*  
