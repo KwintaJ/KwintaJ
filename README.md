@@ -5,5 +5,5 @@ Hello, I am Jan
 jankwarta@gmail.com  
 jankwinta@icloud.com  
 <a href="https://github.com/KwintaJ">  
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KwintaJ&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KwintaJ&layout=compact" />
 </a> 
