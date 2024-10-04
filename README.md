@@ -1,6 +1,8 @@
 Hello, I am Jan
 ---------------
-
+C/C++ native speaker  
+Working professionally in Java  
+  
 *reach out to me:* 
 jankwinta@icloud.com  
 <a href="https://github.com/KwintaJ">  
